@@ -2,10 +2,11 @@
 
 A simple and responsive currency converter built with React, TypeScript, and Vite.  
 Convert between USD and IRR using a custom exchange rate. Results are displayed in Persian number format.
----
+
 مبدل ارز ساده و واکنش‌گرا ساخته‌شده با
  React، TypeScript و Vite.
  تبدیل بین دلار آمریکا و ریال ایران  با استفاده از نرخ تبدیل دلخواه. نتایج به‌صورت اعداد فارسی نمایش داده می‌شوند.
+ 
 ---
 
 ## 🌟 Features | قابلیت‌ها
