@@ -1,4 +1,4 @@
-# 💱 Currency Converter | مبدل ارز
+## 💱 Currency Converter | مبدل ارز
 
 A simple and responsive currency converter built with React, TypeScript, and Vite.  
 Convert between USD and IRR using a custom exchange rate. Results are displayed in Persian number format.
@@ -28,4 +28,4 @@ Convert between USD and IRR using a custom exchange rate. Results are displayed 
 ## ⚡ How to Run | راه‌اندازی پروژه
 1. **Clone the rerepository | کلون کردن مخزن**  
 
-
+git clone https://github.com/alirezakhdev/Currency-Converter
